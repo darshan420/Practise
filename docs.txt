@@ -1,3 +1,6 @@
 NAME : Darshan Patil
 Add: Mumbai India
 isUser: TRUE
+Name : Nidhi Shetty
+Add : Mumbai, India
+isUser: TRUE
