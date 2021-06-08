@@ -2,5 +2,5 @@ NAME : Darshan Patil
 Add: Sydeny , Aus
 isUser: TRUE
 Name : Nidhi Shetty
-Add : Mumbai, India
+Add : United Kingdom
 isUser: TRUE
